@@ -8,7 +8,8 @@ Node.js uygulamasını oluşturduktan sonra terminal üzerinden terminal üzerin
 
 Komutunu terminale girdim ardından Dockerfile içeriğini oluşturdum.
 
- 
+ <img width="306" alt="image" src="https://github.com/LOG-IN-DEVOPS-BOOTCAMP/kubernetes-assigment-IkbalKulahcioglu/assets/65568713/6f113b0e-4b74-419f-8b8e-9b6c4fd78ed1">
+
 
 Docker image oluşturmak için aşağıdaki komutu kullandım
 
@@ -34,4 +35,3 @@ Aşağıdaki komutlarla uygulamalara eriştim.
 •	web-app-v2-service   ClusterIP   10.103.151.21   <none>        80/TCP    32s
 
 
-![image](https://github.com/LOG-IN-DEVOPS-BOOTCAMP/kubernetes-assigment-IkbalKulahcioglu/assets/65568713/8dbe444d-a2b1-4b13-a170-80b966a61d49)
